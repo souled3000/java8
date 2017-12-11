@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
-public class Capitulo4 {
+public class Capitulo04 {
 	
 	public static void main(String... args) {
 

@@ -6,7 +6,7 @@ import java.nio.file.*;
 import java.util.stream.*;
 import java.util.function.*;
 
-class Capitulo8 {
+class Capitulo08 {
 	public static void main (String... args) throws Exception {
 
 		Usuario user1 = new Usuario("Paulo Silveira", 150);

@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.function.*;
 
-class Capitulo5 {
+class Capitulo05 {
 
 	public static void main(String[] args) {
 		

@@ -7,7 +7,7 @@ import java.util.stream.*;
 import java.util.function.*;
 
 
-class Capitulo9 {
+class Capitulo09 {
 
 	private static long total = 0;
 

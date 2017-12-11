@@ -1,6 +1,6 @@
 package br.com.casadocodigo.java8;
 
-class Capitulo3 {
+class Capitulo03 {
 
 	public static void main(String[] args) {
 

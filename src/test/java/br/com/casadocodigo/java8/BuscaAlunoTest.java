@@ -8,22 +8,30 @@ import java.util.function.*;
 /**
  * Unit test for simple App.
  */
-public class BuscaAlunoTest 
-{
+public class BuscaAlunoTest {
 
-    @Test
-    public void testApp()
-    {
-        List lista = Arrays.asList(1,2,3);
-        
-		lista.forEach(new Consumer(){
-   			public void accept(Object a) {
-           		System.out.println(a);                  
-   			}
+	@Test
+	public void testApp() {
+		List lista = Arrays.asList(1, 2, 3);
+
+		lista.forEach(new Consumer() {
+			public void accept(Object a) {
+				System.out.println(a);
+			}
 		});
 
-		lista.forEach((v) -> {System.out.println(v);});
+		lista.forEach((v) -> {
+			System.out.println(v);
+		});
 
-        assertTrue( true );
+		assertTrue(true);
+	}
+
+	@Test
+    public void test2() {
+    	Set s = new HashSet();
+    	s.add(4L);
+    	s.add(10L);
+    	s.forEach(v->System.out.println(v));
     }
 }

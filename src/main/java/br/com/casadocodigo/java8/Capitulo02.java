@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
 
-public class Capitulo2 {
+public class Capitulo02 {
 	
 	public static void main(String... args) {
 		

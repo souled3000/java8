@@ -6,7 +6,7 @@ import java.math.*;
 import java.util.stream.*;
 import java.util.function.*;
 
-class Capitulo7 {
+class Capitulo07 {
 	public static void main (String... args) throws Exception {
 
 		Usuario u1 = new Usuario("Paulo Silveira", 150);
